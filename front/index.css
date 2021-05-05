@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font: 14px;
+    font-size: 14px;
 }
 
 a {
@@ -104,7 +104,7 @@ textarea:hover {
     font-weight: 700;
     font-size: 26px;
     height: 30px;
-    width: 700px;
+    width: fit-content;
     line-height: 30px;
 }
 
@@ -115,7 +115,7 @@ textarea:hover {
     font-weight: 700;
     font-size: 26px;
     height: 30px;
-    width: 700px;
+    width: fit-content;
     line-height: 30px;
 }
 
