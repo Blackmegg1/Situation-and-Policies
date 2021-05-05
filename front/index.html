@@ -12,12 +12,32 @@
 
 <body>
     <div class="nav">
-        <input type="text" class="question" id="question">
-        <input type="button" class="submit" value="提交" onclick="getAnswer()">
+        <textarea type="text" class="question" id="question" onkeydown="enter_btn(event.keyCode)">题目在这里输入</textarea>
+        <input type="button" class="submit" value="查题" onclick="getAnswer()">
+        <textarea class="answerArea" id="answerArea">答案显示在这里</textarea>
     </div>
-    <textarea class="answerArea" id="answerArea">answer</textarea>
-
+    <div class="footer">
+        <div class="howToUse">
+            <div class="list_title">使用注意事项：</div>
+            <ul>
+                <li>1. 仅可以查询 <a href="https://hfut.yuketang.cn/pro/portal/home/" class="link">HFUT-雨课堂-形势与政策（6）</a>
+                    考试答案，可查到95%的题目。</li>
+                <li>2. 不要复制题目中的括号！！！复制完题目后直接在该网页 Ctrl + V。</li>
+                <li>3. 显示奇怪的答案时，请尝试复制其他题干信息。</li>
+                <li>4. 能搜到的题目答案绝对都是正确的，搜不到的还请 <a href="www.baidu.com" class="link">点击这里。</a></li>
+                <li>5. 如果你想了解更多关于这个小项目的信息，可以 <a href="https://github.com/Blackmegg1/Forms-and-Policies"
+                        class="link">点击这里。</a></li>
+                <li>6. 遇到什么超大的问题（如网页不可用）<a target="_blank"
+                        href=http://wpa.qq.com/msgrd?v=3&uin=1141066795&site=qq&menu=yes" class="link">点击这里</a></li>
+            </ul>
+        </div>
+        <div class="thanks">
+            <div class="thanks_title">题库贡献者鸣谢：</div>
+            <div class="names">blackmegg1、shanghaojia123、渡我何如、宗术级、张华岳、Miku、枸梨果＋、wine99 ......</div>
+        </div>
+    </div>
 </body>
+
 <script src="send.js"></script>
 
 </html>
