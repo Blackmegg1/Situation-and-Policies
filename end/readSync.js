@@ -1,5 +1,5 @@
-let fs = require("fs");
-let rawdata = fs.readFileSync("answer.json");
+const fs = require("fs");
+let rawdata = fs.readFileSync("end/answer.json");
 let answer = JSON.parse(rawdata);
 let answerArray = Array.from(answer); //json对象数组,元素形式如下：
 //  {
@@ -15,23 +15,56 @@ let answerArray = Array.from(answer); //json对象数组,元素形式如下：
 // }
 
 function searchAnswer(question) {
+  //寻找答案
   for (let i of answerArray) {
     if (i.Body.search(question) != -1) {
       return i;
     }
   }
+  return false;//没有找到题目则返回false
 }
 
 function handleAnswer(answer) {
+  //处理答案
   let handled = [];
+  if(answer){
   for (let i of answer.Answer) {
     for (let j of answer.Options) {
       if (i == j.key) {
         handled.push(j.value);
+        handled.push("\r\n")
       }
     }
   }
-  return handled;
+}
+else {
+  handled.push("没有找到这题");
+}
+  return {"answer": handled };
 }
 
-console.log(handleAnswer(searchAnswer("国民主联盟于2020年7月9日举行")));
+//创建http服务器
+const http = require("http");
+const url = require("url");
+const querystring = require("querystring");
+http
+  .createServer((req, res) => {
+    let reqUrl = url.parse(req.url);
+    let reqQuery = querystring.parse(reqUrl.query);//响应内容
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    res.writeHead(200, {
+      "Content-Type": "text/html;charset=utf-8", //解决中文乱码问题
+    });
+    // console.log(reqQuery.question);
+    let answer = handleAnswer(searchAnswer(reqQuery.question));
+    console.log(JSON.stringify(answer))
+    res.write(JSON.stringify(answer))
+    // res.write(JSON.stringify(reqQuery)); //响应内容
+    res.end(); //结束响应
+  })
+  .listen(3000); //开始监听本地3000端口
+console.log(`http server is listening at http://localhost:3000`);
+
+// console.log(
+//   handleAnswer(searchAnswer("党和国家机构职能体系是我们党治国理政的重要保障"))
+// );

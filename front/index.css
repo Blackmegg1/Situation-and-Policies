@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font: 14px;
 }
 
 body {
@@ -15,5 +16,10 @@ input {
     display: block;
     margin: 10px auto;
     height: 100px;
-    width: 200px;
+    width: 400px;
+}
+
+.answerArea {
+    height: 150px;
+    width: 400px;
 }
