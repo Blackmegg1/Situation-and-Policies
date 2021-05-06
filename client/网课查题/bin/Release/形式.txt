@@ -1,0 +1,3449 @@
+[
+  {
+    "Body": "2020年8月26日，在澜湄合作第（）次领导人会议成功召开之际，中国驻老挝大使姜再冬在使馆网站发表文章《澜湄合作谱新篇开新局闯新路》。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://world.people.com.cn/n1/2020/0826/c1002-31838077.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "二"
+      },
+      {
+        "key": "A",
+        "value": "一"
+      },
+      {
+        "key": "D",
+        "value": "四"
+      },
+      {
+        "key": "C",
+        "value": "三"
+      }
+    ],
+    "Version": "86c99f860c144a5383a8e2b01d3f6aea",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130956,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917464,
+    "ProblemType": 1,
+    "template_id": 2130956,
+    "problem_type": 1
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：诚信是社会和谐的基石和重要特征。要推动各行业各领域制定诚信公约，加快（  ）、(  )、  (  )、  (   )和司法公信建设，构建覆盖全社会的征信体系。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "D",
+        "value": "商务诚信"
+      },
+      {
+        "key": "B",
+        "value": "业务诚信"
+      },
+      {
+        "key": "A",
+        "value": "个人诚信"
+      },
+      {
+        "key": "E",
+        "value": "社会诚信"
+      },
+      {
+        "key": "C",
+        "value": "政务诚信"
+      }
+    ],
+    "Version": "553667f4e7984619a3e6a586bf0fa706",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131018,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917529,
+    "ProblemType": 2,
+    "template_id": 2131018,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "坚持问题导向，保持战略定力，始终做到打铁（  ），我们必能以党的自我革命推动党领导人民进行的伟大社会革命，为决胜全面建成小康社会、实现中华民族伟大复兴提供坚强政治保证。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "D",
+        "value": "“要用劲”"
+      },
+      {
+        "key": "A",
+        "value": "“要正热”"
+      },
+      {
+        "key": "B",
+        "value": "“自身硬”"
+      },
+      {
+        "key": "C",
+        "value": "“趁火候”"
+      }
+    ],
+    "Version": "5792f80eb699405ca665f76c35b5ae5d",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130940,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917448,
+    "ProblemType": 1,
+    "template_id": 2130940,
+    "problem_type": 1
+  },
+  {
+    "Body": "国务委员兼外交部长王毅于2020年8月23日在广西东兴两国边界跨界处同越南副总理兼外长范平明共同出席中越陆地边界划界（）周年暨勘界立碑十周年纪念活动。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://military.people.com.cn/n1/2020/0824/c1011-31834238.html",
+    "Options": [
+      {
+        "key": "C",
+        "value": "二十"
+      },
+      {
+        "key": "B",
+        "value": "十八"
+      },
+      {
+        "key": "D",
+        "value": "二十二"
+      },
+      {
+        "key": "A",
+        "value": "十六"
+      }
+    ],
+    "Version": "89b51916af1a4090b2bbfeb7b52ba553",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130949,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917457,
+    "ProblemType": 1,
+    "template_id": 2130949,
+    "problem_type": 1
+  },
+  {
+    "Body": "港澳台居民居住证持有人在内地（大陆）享有的基本公共服务有（）、（）、（）、（）.",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Remark": "《港澳台居民居住证申领发放办法》http://www.gov.cn/zhengce/content/2018-08/19/content_5314865.htm",
+    "Options": [
+      {
+        "key": "C",
+        "value": "基本公共卫生服务"
+      },
+      {
+        "key": "E",
+        "value": "法律援助和其他法律服务"
+      },
+      {
+        "key": "D",
+        "value": "公共文化体育服务"
+      },
+      {
+        "key": "A",
+        "value": "教育"
+      },
+      {
+        "key": "B",
+        "value": "基本公共就业服务"
+      }
+    ],
+    "Version": "512eff459496410bba94eaf093e0b65b",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130968,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917479,
+    "ProblemType": 2,
+    "template_id": 2130968,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "新时代推动全面从严治党向纵深发展，营造风清气正的党内政治生态，必须加强（）建设，培养党员干部的优良政治品德。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0521/c117092-30001858.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "作风"
+      },
+      {
+        "key": "A",
+        "value": "从政道德"
+      },
+      {
+        "key": "D",
+        "value": "组织"
+      },
+      {
+        "key": "C",
+        "value": "思想"
+      }
+    ],
+    "Version": "fbd302d73b11491a9a71300d0bd4bd12",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130899,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917407,
+    "ProblemType": 1,
+    "template_id": 2130899,
+    "problem_type": 1
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：中国特色社会主义进入新时代，加强公民道德建设、提高全社会道德水平，是（    ），（   ），（   ）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "D",
+        "value": "适应社会主要矛盾变化、满足人民对美好生活向往的迫切需要"
+      },
+      {
+        "key": "E",
+        "value": "凝聚中国力量的客观选择"
+      },
+      {
+        "key": "C",
+        "value": "是促进社会全面进步、人的全面发展的必然要求"
+      },
+      {
+        "key": "B",
+        "value": "全面建成小康社会、全面建设社会主义现代化强国的战略任务"
+      },
+      {
+        "key": "A",
+        "value": "解决我国社会主要矛盾的必要途径"
+      }
+    ],
+    "Version": "65d949e72f65453cbffe3b9be12beb2e",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131016,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917527,
+    "ProblemType": 2,
+    "template_id": 2131016,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "强化党内监督，就要尊崇（  ），依规治党，坚持党内监督和人民群众监督相结合.",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "A",
+        "value": "党章"
+      },
+      {
+        "key": "C",
+        "value": "党的纲领"
+      },
+      {
+        "key": "B",
+        "value": "党纪"
+      },
+      {
+        "key": "D",
+        "value": "党的宗旨"
+      }
+    ],
+    "Version": "e4f07ef9be1c4a84b8d8fbea781176a6",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130936,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917444,
+    "ProblemType": 1,
+    "template_id": 2130936,
+    "problem_type": 1
+  },
+  {
+    "Body": "党的()是党的根本性建设，决定党的建设方向和效果。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0601/c117092-30027836.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "组织建设"
+      },
+      {
+        "key": "C",
+        "value": "思想建设"
+      },
+      {
+        "key": "A",
+        "value": "政治建设"
+      },
+      {
+        "key": "D",
+        "value": "制度建设"
+      }
+    ],
+    "Version": "3730d3ce12b14923945fc3c2b1de35f4",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130895,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917403,
+    "ProblemType": 1,
+    "template_id": 2130895,
+    "problem_type": 1
+  },
+  {
+    "Body": "在抓好网络空间道德建设方面，《新时代公民道德建设实施纲要》强调：（   ）；（  ）；（  ）；（  ）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "D",
+        "value": "反对网络暴力行为"
+      },
+      {
+        "key": "E",
+        "value": "营造良好网络道德环境"
+      },
+      {
+        "key": "C",
+        "value": "丰富网上道德实践"
+      },
+      {
+        "key": "A",
+        "value": "加强网络内容建设"
+      },
+      {
+        "key": "B",
+        "value": "培养文明自律网络行为"
+      }
+    ],
+    "Version": "b5660d3775ac49dbb05c0b24ef3a2ad0",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131015,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917526,
+    "ProblemType": 2,
+    "template_id": 2131015,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "“新亚欧大陆桥”的主要路线是东起太平洋西岸（）等中国东部沿海港口，西可达大西洋东岸荷兰的鹿特丹、比利时的安特卫普等港口，横贯亚欧两大洲中部地带。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "A",
+        "value": "大连"
+      },
+      {
+        "key": "D",
+        "value": "广州"
+      },
+      {
+        "key": "C",
+        "value": "青岛"
+      },
+      {
+        "key": "B",
+        "value": "连云港"
+      }
+    ],
+    "Version": "fe3c277328404c5fbb68cf6a25764181",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130914,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917422,
+    "ProblemType": 1,
+    "template_id": 2130914,
+    "problem_type": 1
+  },
+  {
+    "Body": "习近平总书记鲜明提出“坚定信念、（）、（）、（）、（）”的新时代好干部标准，\n为选人用人树起了时代标杆。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "Remark": "《习近平新时代中国特色社会主义思想三十讲》，学习出版社，2018年5月。",
+    "Options": [
+      {
+        "key": "E",
+        "value": "清正廉洁"
+      },
+      {
+        "key": "A",
+        "value": "为民服务"
+      },
+      {
+        "key": "D",
+        "value": "公道正派"
+      },
+      {
+        "key": "C",
+        "value": "敢于担当"
+      },
+      {
+        "key": "B",
+        "value": "勤政务实"
+      }
+    ],
+    "Version": "f6400c6178914588a170204d0f5476e4",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130975,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917486,
+    "ProblemType": 2,
+    "template_id": 2130975,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "2018年全国教育大会上，习近平指出，全党全社会要弘扬尊师重教的社会风尚，努力提高教师政治地位、社会地位、职业地位，让广大教师享有应有的社会声望，在教书育人岗位上为党和人民事业作出新的更大的贡献。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "http://edu.people.com.cn/n1/2018/0911/c1053-30286253.html",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "fb779a8487d845cba0bbe46d9027ea7f",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131024,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917535,
+    "ProblemType": 6,
+    "template_id": 2131024,
+    "problem_type": 6
+  },
+  {
+    "Body": "法律是治国之重器，纪律是治党之戒尺。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0828/c117092-30254687.html",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "c90bd0a6db434fc8b21144a479d853eb",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131041,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917552,
+    "ProblemType": 6,
+    "template_id": 2131041,
+    "problem_type": 6
+  },
+  {
+    "Body": "把全面从严治党引向深入，需要把（  ）贯穿其中，做到标本兼治、施之长远。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "C",
+        "value": "思想建设"
+      },
+      {
+        "key": "D",
+        "value": "组织建设"
+      },
+      {
+        "key": "A",
+        "value": "制度建设"
+      },
+      {
+        "key": "B",
+        "value": "政治建设"
+      }
+    ],
+    "Version": "bcd50a44f58a48c8ad182bd45ec1c4a4",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130942,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917450,
+    "ProblemType": 1,
+    "template_id": 2130942,
+    "problem_type": 1
+  },
+  {
+    "Body": "乡村振兴，必须遵循（）规律，规划先行，分类推进。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://www.cssn.cn/skyskl/skyskl_yzfc/201808/t20180807_4524819_1.shtml",
+    "Options": [
+      {
+        "key": "C",
+        "value": "经济增长"
+      },
+      {
+        "key": "A",
+        "value": "社会进步"
+      },
+      {
+        "key": "D",
+        "value": "提高产量"
+      },
+      {
+        "key": "B",
+        "value": "乡村发展"
+      }
+    ],
+    "Version": "c5178eab59404697af4b4119f45d06f1",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130862,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917370,
+    "ProblemType": 1,
+    "template_id": 2130862,
+    "problem_type": 1
+  },
+  {
+    "Body": "伟大斗争、伟大工程、伟大事业、伟大梦想，其中起决定性作用的是党的建设新的()。要把新时代坚持和发展中国特色社会主义这场伟大社会革命进行好，我们党必须勇于进行自我革命，把党建设得更加坚强有力。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "十九大报告",
+    "Options": [
+      {
+        "key": "D",
+        "value": "伟大梦想"
+      },
+      {
+        "key": "C",
+        "value": "伟大事业"
+      },
+      {
+        "key": "A",
+        "value": "伟大工程"
+      },
+      {
+        "key": "B",
+        "value": "伟大斗争"
+      }
+    ],
+    "Version": "75b5a0d1b40d466cb66fd19c7537a6e3",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130890,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917398,
+    "ProblemType": 1,
+    "template_id": 2130890,
+    "problem_type": 1
+  },
+  {
+    "Body": "思想建设是党的（）。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "《习近平新时代中国特色社会主义思想三十讲》，学习出版社，2018年5月。",
+    "Options": [
+      {
+        "key": "D",
+        "value": "基础性建设"
+      },
+      {
+        "key": "C",
+        "value": "首要建设"
+      },
+      {
+        "key": "A",
+        "value": "根本性建设"
+      },
+      {
+        "key": "B",
+        "value": "重要建设"
+      }
+    ],
+    "Version": "e88224271b22485c8f55bae749a0e598",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130884,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917392,
+    "ProblemType": 1,
+    "template_id": 2130884,
+    "problem_type": 1
+  },
+  {
+    "Body": "“一带一路”建设将增进沿线各国人民的人文交流与文明互鉴，让各国人民（）（），共享和谐、安宁、富裕的生活。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "B",
+      "C"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "E",
+        "value": "协作开发"
+      },
+      {
+        "key": "A",
+        "value": "优势互补"
+      },
+      {
+        "key": "D",
+        "value": "注重人才以及话语权建设"
+      },
+      {
+        "key": "B",
+        "value": "相逢相知"
+      },
+      {
+        "key": "C",
+        "value": "互信互敬"
+      }
+    ],
+    "Version": "07d8f21462864c22a35392c6f58aa713",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130993,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917504,
+    "ProblemType": 2,
+    "template_id": 2130993,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：加强师德师风建设，引导教师(   )、（  ）、（  ）、（  ），做有理想信念、有道德情操、有扎实学识、有仁爱之心的好老师。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "A",
+        "value": "以德立身"
+      },
+      {
+        "key": "C",
+        "value": "以德施教"
+      },
+      {
+        "key": "B",
+        "value": "以德立学"
+      },
+      {
+        "key": "D",
+        "value": "以德育德"
+      },
+      {
+        "key": "E",
+        "value": "以德报德"
+      }
+    ],
+    "Version": "d235946932044d4babab7e07e0d111d7",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131017,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917528,
+    "ProblemType": 2,
+    "template_id": 2131017,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "推进乡村振兴战略需要全社会多主体、多力量、（）的介入与协同。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "https://www.sohu.com/a/238065484_349299",
+    "Options": [
+      {
+        "key": "B",
+        "value": "多领导"
+      },
+      {
+        "key": "C",
+        "value": "多产业"
+      },
+      {
+        "key": "D",
+        "value": "多机制"
+      },
+      {
+        "key": "A",
+        "value": "多才能"
+      }
+    ],
+    "Version": "c6294c5a5b2847c1b2475094354f6d43",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130870,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917378,
+    "ProblemType": 1,
+    "template_id": 2130870,
+    "problem_type": 1
+  },
+  {
+    "Body": "《中国共产党纪律处分条例》修订坚持问题导向，针对（）的突出问题和监督执纪中发现的新型违纪行为，扎紧制度篱笆，实现制度建设与时俱进。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0828/c117092-30254687.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "党内腐败"
+      },
+      {
+        "key": "A",
+        "value": "管党治党"
+      },
+      {
+        "key": "C",
+        "value": "党风党纪"
+      },
+      {
+        "key": "D",
+        "value": "思想建设"
+      }
+    ],
+    "Version": "90da7b8b2eb544c7aa7556ef7e15f222",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130893,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917401,
+    "ProblemType": 1,
+    "template_id": 2130893,
+    "problem_type": 1
+  },
+  {
+    "Body": "全面从严治党是我党立下的军令状，“打铁必须自身硬”是我党的庄严承诺。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0524/c117101-30011599.html",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "913c4ff5c8db4d0fa104318cc872dc27",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131042,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917553,
+    "ProblemType": 6,
+    "template_id": 2131042,
+    "problem_type": 6
+  },
+  {
+    "Body": "习近平指出，上海合作组织始终保持旺盛生命力、强劲合作动力，根本原因在于它创造性地提出并始终践行“上海精神”，主张（）、（）、（）、（）、尊重多样文明、谋求共同发展。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "Remark": "http://www.ssydt.com/ssrz/37027.html",
+    "Options": [
+      {
+        "key": "E",
+        "value": "协商"
+      },
+      {
+        "key": "C",
+        "value": "共享"
+      },
+      {
+        "key": "B",
+        "value": "互利"
+      },
+      {
+        "key": "D",
+        "value": "平等"
+      },
+      {
+        "key": "A",
+        "value": "互信"
+      }
+    ],
+    "Version": "576a78bd79c947aeb2901506c64e9157",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130988,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917499,
+    "ProblemType": 2,
+    "template_id": 2130988,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "乡村振兴离不开各类（）人才。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://dj.cq.gov.cn/Html/29/nyzx/xnczt/2018-7/180245.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "农业农村"
+      },
+      {
+        "key": "D",
+        "value": "前沿科技"
+      },
+      {
+        "key": "B",
+        "value": "乡镇企业"
+      },
+      {
+        "key": "C",
+        "value": "电脑科技"
+      }
+    ],
+    "Version": "653d487a56c34710b02a22ea47d32f12",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130873,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917381,
+    "ProblemType": 1,
+    "template_id": 2130873,
+    "problem_type": 1
+  },
+  {
+    "Body": "广义的丝绸之路指的是（）",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "C",
+        "value": "陆上丝绸之路和海上丝绸之路"
+      },
+      {
+        "key": "D",
+        "value": "茶马古道和河西走廊"
+      },
+      {
+        "key": "A",
+        "value": "陶瓷之路和茶叶之路"
+      },
+      {
+        "key": "B",
+        "value": "古丝绸之路和海上丝绸之路"
+      }
+    ],
+    "Version": "40dc3c7621764105922c3c86ee4642de",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130915,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917423,
+    "ProblemType": 1,
+    "template_id": 2130915,
+    "problem_type": 1
+  },
+  {
+    "Body": "始终同人民在一起，为()而奋斗，是马克思主义政党同其他政党的根本区别。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "《在纪念马克思诞辰200周年大会上的讲话》，http://www.xinhuanet.com/politics/zbmks200/",
+    "Options": [
+      {
+        "key": "B",
+        "value": "少数人利益"
+      },
+      {
+        "key": "A",
+        "value": "大众利益"
+      },
+      {
+        "key": "D",
+        "value": "政党利益"
+      },
+      {
+        "key": "C",
+        "value": "人民利益"
+      }
+    ],
+    "Version": "02c34dc02b704db28756f3930e4a47b7",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130882,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917390,
+    "ProblemType": 1,
+    "template_id": 2130882,
+    "problem_type": 1
+  },
+  {
+    "Body": "乡村振兴需要坚持党的领导，这也就意味着要以政府为主导忽视农民的主体地位。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "false"
+    ],
+    "Remark": "http://theory.gmw.cn/2018-05/26/content_28982188.htm",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "ae17b00e9c584bb08306541a471e05dc",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131049,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917560,
+    "ProblemType": 6,
+    "template_id": 2131049,
+    "problem_type": 6
+  },
+  {
+    "Body": "推动全面从严治党向纵深发展，必须深入挖掘()违纪违法形式，从新情况入手，不留死角。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0910/c117092-30282718.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "全面"
+      },
+      {
+        "key": "D",
+        "value": "传统"
+      },
+      {
+        "key": "C",
+        "value": "隐藏"
+      },
+      {
+        "key": "B",
+        "value": "新型"
+      }
+    ],
+    "Version": "b7449e6c5f784f779606249346605e84",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130900,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917408,
+    "ProblemType": 1,
+    "template_id": 2130900,
+    "problem_type": 1
+  },
+  {
+    "Body": "“301调查”是基于美国国内法相关条款开展的贸易调查，衡量并要求其他国家接受美国的知识产权标准和市场准入要求，否则就采取报复性的贸易制裁手段，早在上世纪90年代就被称为（）。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "https://www.guancha.cn/economy/2018_09_24_473219_s.shtml",
+    "Options": [
+      {
+        "key": "B",
+        "value": "“狭隘的保护主义”"
+      },
+      {
+        "key": "A",
+        "value": "“激进的单边主义”"
+      },
+      {
+        "key": "D",
+        "value": "“激进的保护主义”"
+      },
+      {
+        "key": "C",
+        "value": "“狭隘的利己主义”"
+      }
+    ],
+    "Version": "1ab3eaa1848b459a82ed7cbf62b41cb5",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130932,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917440,
+    "ProblemType": 1,
+    "template_id": 2130932,
+    "problem_type": 1
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：要充分发挥礼仪礼节的教化作用。礼仪礼节是（  ），（  ）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "C",
+      "D"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "E",
+        "value": "中国精神的体现"
+      },
+      {
+        "key": "A",
+        "value": "美好生活的基础"
+      },
+      {
+        "key": "B",
+        "value": "人民群众的期盼"
+      },
+      {
+        "key": "D",
+        "value": "道德实践的载体"
+      },
+      {
+        "key": "C",
+        "value": "道德素养的体现"
+      }
+    ],
+    "Version": "ebf2a6ad895449ba9513b607c780470c",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131020,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917531,
+    "ProblemType": 2,
+    "template_id": 2131020,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "2020年9月29日，中共中央总书记、国家主席习近平同越共中央总书记、国家主席阮富仲通电话。习近平强调今年是中越建交（）周年，两党两国关系迈上新的历史起点。疫情之下中越双边贸易等合作呈现出强劲增长势头，彰显了中越关系的韧性和潜力。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "http://tyzx.people.cn/n1/2020/0930/c372194-31880968.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "68"
+      },
+      {
+        "key": "C",
+        "value": "69"
+      },
+      {
+        "key": "A",
+        "value": "67"
+      },
+      {
+        "key": "D",
+        "value": "70"
+      }
+    ],
+    "Version": "9a34cf2c71e64e22bf13f8007cf5dd0e",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130948,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917456,
+    "ProblemType": 1,
+    "template_id": 2130948,
+    "problem_type": 1
+  },
+  {
+    "Body": "新修订的《中国共产党纪律处分条例》对（），（），（），扶贫领域侵害群众利益，民生保障显失公平，组织利用宗族势力对抗中央方针政策、破坏基层组织建设，贯彻新发展理念失职等六种违纪行为从重或加重处分。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0910/c117092-30282718.html",
+    "Options": [
+      {
+        "key": "E",
+        "value": "受贿"
+      },
+      {
+        "key": "D",
+        "value": "渎职"
+      },
+      {
+        "key": "A",
+        "value": "组织、利用宗教活动反党"
+      },
+      {
+        "key": "C",
+        "value": "搞有组织的拉票贿选或者用公款拉票贿选"
+      },
+      {
+        "key": "B",
+        "value": "破坏民族团结"
+      }
+    ],
+    "Version": "2aa3d8e26ad14d66990eb47834c74b8e",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130986,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917497,
+    "ProblemType": 2,
+    "template_id": 2130986,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "第30届“中国文化日”——《日中友好会馆馆藏中国书画展》9月26日在（）拉开帷幕。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://world.people.com.cn/n1/2020/0927/c1002-31876865.html",
+    "Options": [
+      {
+        "key": "D",
+        "value": "名古屋"
+      },
+      {
+        "key": "C",
+        "value": "横滨"
+      },
+      {
+        "key": "B",
+        "value": "东京"
+      },
+      {
+        "key": "A",
+        "value": "大阪"
+      }
+    ],
+    "Version": "230aa2ea1c814ff0a509ed1534a3e651",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130953,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917461,
+    "ProblemType": 1,
+    "template_id": 2130953,
+    "problem_type": 1
+  },
+  {
+    "Body": "习近平同志关于做好“三农”工作的重要系列论述中，“检验农村工作实效的一个重要尺度，就是看农民的“钱袋子”鼓起来没有”是他的（）。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://www.china.com.cn/news/2017-08/13/content_41401400.htm",
+    "Options": [
+      {
+        "key": "B",
+        "value": "“饭碗”之说"
+      },
+      {
+        "key": "A",
+        "value": "“强富美”之论"
+      },
+      {
+        "key": "C",
+        "value": "“钱袋子”说"
+      },
+      {
+        "key": "D",
+        "value": "“两山理论”"
+      }
+    ],
+    "Version": "ba0f7a4ac7164f9fbd7caae5e6678ac5",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130917,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917425,
+    "ProblemType": 1,
+    "template_id": 2130917,
+    "problem_type": 1
+  },
+  {
+    "Body": "马克思主义是不断发展的开放的理论，始终站在时代前沿。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "《在纪念马克思诞辰200周年大会上的讲话》，http://www.xinhuanet.com/politics/zbmks200/",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "2ad68c4dc78143d4ac22e97bb05e14e2",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131036,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917547,
+    "ProblemType": 6,
+    "template_id": 2131036,
+    "problem_type": 6
+  },
+  {
+    "Body": "（  ）就是党内的“纪律部队”，肩负着维护党纪政纪的重要职责，其素质、能力和作风，直接关系到全面从严治党的成效。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "C",
+        "value": "纪检机关"
+      },
+      {
+        "key": "B",
+        "value": "权力"
+      },
+      {
+        "key": "A",
+        "value": "行政"
+      },
+      {
+        "key": "D",
+        "value": "群众"
+      }
+    ],
+    "Version": "04c85149b93d42d38aef1b85906005ee",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130943,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917451,
+    "ProblemType": 1,
+    "template_id": 2130943,
+    "problem_type": 1
+  },
+  {
+    "Body": "中国经济新常态包含创新驱动、产业升级、结构调整、环境保护等丰富内涵。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "bfe26e2599184bd4926969df3bb4bc05",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131047,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917558,
+    "ProblemType": 6,
+    "template_id": 2131047,
+    "problem_type": 6
+  },
+  {
+    "Body": "党员干部不仅要涵养()、()、()、勤俭等品德，更要自觉以党员领导干部标准严格要求自己，时刻警醒自我，始终保持高尚的道德情操。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0521/c117092-30001858.html",
+    "Options": [
+      {
+        "key": "D",
+        "value": "公正"
+      },
+      {
+        "key": "A",
+        "value": "谦虚"
+      },
+      {
+        "key": "B",
+        "value": "善良"
+      },
+      {
+        "key": "C",
+        "value": "诚实"
+      },
+      {
+        "key": "E",
+        "value": "严谨"
+      }
+    ],
+    "Version": "3bb78705d0cb43cf81758e5c2df2353b",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130984,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917495,
+    "ProblemType": 2,
+    "template_id": 2130984,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "如何提升中国丝绸之路的软实力。（），（），（），（）都是具体措施",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "A",
+        "value": "加大对文化产业投入"
+      },
+      {
+        "key": "B",
+        "value": "打造征服人心的中国精品"
+      },
+      {
+        "key": "C",
+        "value": "注重人才以及话语权建设"
+      },
+      {
+        "key": "E",
+        "value": "建立强大的国防力量"
+      },
+      {
+        "key": "D",
+        "value": "做好文化宣传工作"
+      }
+    ],
+    "Version": "bb774079016242468704576e7ef63b03",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130995,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917506,
+    "ProblemType": 2,
+    "template_id": 2130995,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "政治方向是党生存发展第一位的问题，\n事关党的前途命运和事业兴衰成败",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "《习近平在中共中央政治局第六次集体学习时强调\n把党的政治建设作为党的根本性建设为党不断从胜利走向胜利提供重要保证》http://news.ifeng.com/a/20180702/58961853_0.shtml",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "a053d6df69fb4365ab66d129eaf8c862",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131037,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917548,
+    "ProblemType": 6,
+    "template_id": 2131037,
+    "problem_type": 6
+  },
+  {
+    "Body": "实施乡村振兴战略涉及许多方面，是一个（）工程。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "https://www.sohu.com/a/221339635_752093",
+    "Options": [
+      {
+        "key": "B",
+        "value": "系统性"
+      },
+      {
+        "key": "D",
+        "value": "目的性"
+      },
+      {
+        "key": "A",
+        "value": "科学性"
+      },
+      {
+        "key": "C",
+        "value": "全局性"
+      }
+    ],
+    "Version": "90adbe46585d4902ae66b39fba47fe44",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130871,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917379,
+    "ProblemType": 1,
+    "template_id": 2130871,
+    "problem_type": 1
+  },
+  {
+    "Body": "按照党的十九大提出的决胜全面建成小康社会、分两个阶段实现第二个百年奋斗目标的战略安排，实施乡村振兴战略的目标任务是到2020年，乡村振兴（)、（）和（）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "Remark": "http://www.tdzyw.com/2018/0204/50331.html",
+    "Options": [
+      {
+        "key": "D",
+        "value": "政策体系基本形成"
+      },
+      {
+        "key": "B",
+        "value": "制度框架基本形成"
+      },
+      {
+        "key": "E",
+        "value": "农业农村现代化基本实现"
+      },
+      {
+        "key": "C",
+        "value": "取得决定性进展"
+      },
+      {
+        "key": "A",
+        "value": "取得重要进展"
+      }
+    ],
+    "Version": "f699f5b788d14246ab1ce572374d3831",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131004,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917515,
+    "ProblemType": 2,
+    "template_id": 2131004,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "党员领导干部要立起遵规守纪、心有所畏的样子，手里要始终拿着一把尺子。这把尺子就是党的政治纪律和()。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0524/c117101-30011599.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "政治规矩"
+      },
+      {
+        "key": "C",
+        "value": "政治原则"
+      },
+      {
+        "key": "B",
+        "value": "政治纲领"
+      },
+      {
+        "key": "D",
+        "value": "政治要求"
+      }
+    ],
+    "Version": "82f5d208c2204086a1f8049fc0cd0008",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130898,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917406,
+    "ProblemType": 1,
+    "template_id": 2130898,
+    "problem_type": 1
+  },
+  {
+    "Body": "9月16日国家主席习近平今天致电（），祝贺他当选日本首相。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://politics.people.com.cn/n1/2020/0916/c1024-31864210.html",
+    "Options": [
+      {
+        "key": "C",
+        "value": "石破茂"
+      },
+      {
+        "key": "B",
+        "value": "岸田文雄"
+      },
+      {
+        "key": "D",
+        "value": "安倍晋三"
+      },
+      {
+        "key": "A",
+        "value": "菅义伟"
+      }
+    ],
+    "Version": "d740a5d56e65464bb914658bab0b72a4",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130954,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917462,
+    "ProblemType": 1,
+    "template_id": 2130954,
+    "problem_type": 1
+  },
+  {
+    "Body": "十九大报告指出，我国经济发展已经从高速增长阶段转变为（）发展阶段",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://www.ssydt.com/ssrz/36755.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "高质量"
+      },
+      {
+        "key": "C",
+        "value": "质量优先"
+      },
+      {
+        "key": "B",
+        "value": "中低速"
+      },
+      {
+        "key": "D",
+        "value": "速度和质量并重"
+      }
+    ],
+    "Version": "14df0fe441254014b97a8796d4a07e24",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130902,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917410,
+    "ProblemType": 1,
+    "template_id": 2130902,
+    "problem_type": 1
+  },
+  {
+    "Body": "国际化人才己经成为提高综合国力和国际竞争力的战略资源。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "d7f9f2af82664d0bbd995512ef060307",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131028,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917539,
+    "ProblemType": 6,
+    "template_id": 2131028,
+    "problem_type": 6
+  },
+  {
+    "Body": "2020年10月15日，中华日本学会、中国社会科学院日本研究所与社会科学文献出版社在京共同发布了《日本蓝皮书：日本研究报告（2020）》。蓝皮书由总报告、（）、对外关系篇、（）、（）和附录构成，对2019年度各领域的发展情况进行了回顾，特别是围绕日本“令和”开局与新时代中日关系等进行了深入研讨和分析，并收录了该年度日本大事记。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "http://cjkeizai.j.people.com.cn/n1/2020/1015/c368504-31893606.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "社会文化篇"
+      },
+      {
+        "key": "A",
+        "value": "政治经济篇"
+      },
+      {
+        "key": "D",
+        "value": "生态环境篇"
+      },
+      {
+        "key": "C",
+        "value": "中日关系篇"
+      },
+      {
+        "key": "E",
+        "value": "文化往来篇"
+      }
+    ],
+    "Version": "64e0fc799b87401baa463f78db376d36",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131007,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917518,
+    "ProblemType": 2,
+    "template_id": 2131007,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "港澳台居民居住证持证人有下列情形之一的，其所持居住证应当由签发机关宣布作废（）、（）、（）、（）.",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Remark": "《港澳台居民居住证申领发放办法》http://www.gov.cn/zhengce/content/2018-08/19/content_5314865.htm",
+    "Options": [
+      {
+        "key": "D",
+        "value": "港澳台居民出入境证件被注销、收缴或者宣布作废的"
+      },
+      {
+        "key": "E",
+        "value": "正常换补发的居住证"
+      },
+      {
+        "key": "A",
+        "value": "丧失港澳台居民身份的"
+      },
+      {
+        "key": "B",
+        "value": "使用虚假证明材料骗领港澳台居民居住证的"
+      },
+      {
+        "key": "C",
+        "value": "可能对国家主权、安全、荣誉和利益造成危害的"
+      }
+    ],
+    "Version": "48c288ed6b1c411f8685bb49748c86bf",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130966,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917477,
+    "ProblemType": 2,
+    "template_id": 2130966,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》具有三个特点，即：(    ) 、（   ）、 (   )。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "http://www.xinhuanet.com/mrdx/2019-10/28/c_138509156.htm",
+    "Options": [
+      {
+        "key": "E",
+        "value": "反映人民意愿"
+      },
+      {
+        "key": "C",
+        "value": "坚持守正创新"
+      },
+      {
+        "key": "D",
+        "value": "遵循建设规律"
+      },
+      {
+        "key": "B",
+        "value": "尊重群众实践"
+      },
+      {
+        "key": "A",
+        "value": "体现时代特征"
+      }
+    ],
+    "Version": "0e20c36d7f434919af01bdbaa0259818",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131013,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917524,
+    "ProblemType": 2,
+    "template_id": 2131013,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "“一带一路”在投资贸易中要突出生态文明理念，加强生态环境、生物多样性和应对气候变化合作，共建（）丝绸之路。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "D",
+        "value": "低碳"
+      },
+      {
+        "key": "A",
+        "value": "绿色"
+      },
+      {
+        "key": "B",
+        "value": "环保"
+      },
+      {
+        "key": "C",
+        "value": "生态"
+      }
+    ],
+    "Version": "8940c7c00b2e4c0f80f924ba5ca02c9f",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130904,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917412,
+    "ProblemType": 1,
+    "template_id": 2130904,
+    "problem_type": 1
+  },
+  {
+    "Body": "乡村振兴，（）是前提。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "https://www.sohu.com/a/221339635_752093",
+    "Options": [
+      {
+        "key": "C",
+        "value": "手工经济"
+      },
+      {
+        "key": "D",
+        "value": "乡镇企业"
+      },
+      {
+        "key": "A",
+        "value": "摆脱贫困"
+      },
+      {
+        "key": "B",
+        "value": "第三产业"
+      }
+    ],
+    "Version": "0359a3690cfd4519a6827d248927ade5",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130866,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917374,
+    "ProblemType": 1,
+    "template_id": 2130866,
+    "problem_type": 1
+  },
+  {
+    "Body": "推进“一带一路”建设既是中国（）的需要，也是加强和亚欧非及世界各国互利合作的需要。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "C",
+        "value": "扩大和深化对外开放"
+      },
+      {
+        "key": "A",
+        "value": "企业“走出去”"
+      },
+      {
+        "key": "B",
+        "value": "深化改革"
+      },
+      {
+        "key": "D",
+        "value": "对外投资"
+      }
+    ],
+    "Version": "31f187ef69b5454d88893ed501e985d4",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130905,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917413,
+    "ProblemType": 1,
+    "template_id": 2130905,
+    "problem_type": 1
+  },
+  {
+    "Body": "2020年10月10日，中共中央总书记习近平就朝鲜劳动党成立（）周年向朝鲜劳动党委员长金正恩致贺电。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "http://www.12371.cn/2020/10/10/ARTI1602301151684716.shtml",
+    "Options": [
+      {
+        "key": "D",
+        "value": "75"
+      },
+      {
+        "key": "C",
+        "value": "74"
+      },
+      {
+        "key": "A",
+        "value": "70"
+      },
+      {
+        "key": "B",
+        "value": "72"
+      }
+    ],
+    "Version": "ba11b5f1da5d4602adf6aa66e76cc5ea",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130951,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917459,
+    "ProblemType": 1,
+    "template_id": 2130951,
+    "problem_type": 1
+  },
+  {
+    "Body": "乡村振兴靠人才，要把（）开发放在首要位置。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://www.fujian.gov.cn/xw/ztzl/xxgcddsjdjs/jdpl/201806/t20180604_2750924.htm",
+    "Options": [
+      {
+        "key": "A",
+        "value": "智力才能"
+      },
+      {
+        "key": "B",
+        "value": "经济产业"
+      },
+      {
+        "key": "C",
+        "value": "人力资本"
+      },
+      {
+        "key": "D",
+        "value": "思维模式"
+      }
+    ],
+    "Version": "6b55186979d24844a2b0c8bd45ed0d3a",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130869,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917377,
+    "ProblemType": 1,
+    "template_id": 2130869,
+    "problem_type": 1
+  },
+  {
+    "Body": "习近平同志关于做好“三农”工作的重要系列论述中，“中国要强，农业必须强；中国要美，农村必须美；中国要富，农民必须富”是他的（）。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://theory.people.com.cn/n1/2017/0125/c83846-29048273.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "“强富美”之论"
+      },
+      {
+        "key": "B",
+        "value": "“饭碗”之说"
+      },
+      {
+        "key": "C",
+        "value": "“钱袋子”说"
+      },
+      {
+        "key": "D",
+        "value": "“两山理论”"
+      }
+    ],
+    "Version": "9bdd968c741a43fa9d3ee8a221a9880d",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130920,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917428,
+    "ProblemType": 1,
+    "template_id": 2130920,
+    "problem_type": 1
+  },
+  {
+    "Body": "（）是“一带一路”建设的关键动力。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "B",
+        "value": "和平相通"
+      },
+      {
+        "key": "A",
+        "value": "资金融通"
+      },
+      {
+        "key": "D",
+        "value": "友谊相通"
+      },
+      {
+        "key": "C",
+        "value": "情谊相通"
+      }
+    ],
+    "Version": "c0a94110114a4894a86ac63f9db14cb2",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130903,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917411,
+    "ProblemType": 1,
+    "template_id": 2130903,
+    "problem_type": 1
+  },
+  {
+    "Body": "构建“丝绸之路经济带”要创新合作模式，加强“五通”，即政策沟通、设施联通、贸易畅通、资金融通和（）。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "A",
+        "value": "情谊相通"
+      },
+      {
+        "key": "C",
+        "value": "民心相通"
+      },
+      {
+        "key": "D",
+        "value": "友谊相通"
+      },
+      {
+        "key": "B",
+        "value": "和平相通"
+      }
+    ],
+    "Version": "438747eb83d5495a922149e6af355823",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130912,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917420,
+    "ProblemType": 1,
+    "template_id": 2130912,
+    "problem_type": 1
+  },
+  {
+    "Body": "2020年4月28日，外交部副部长乐玉成接受美国全国广播公司（NBC）电视专访，强调中美关系发展要做到“三要”，即（ ）、（ ）、（ ）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "中华人民共和国外交部https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/xgxw_680534/t1775006.shtml",
+    "Options": [
+      {
+        "key": "C",
+        "value": "要加强两国在多边领域的国际抗疫合作"
+      },
+      {
+        "key": "E",
+        "value": "要加强中美青少年的交流与合作"
+      },
+      {
+        "key": "B",
+        "value": "要深化双方各领域务实合作"
+      },
+      {
+        "key": "A",
+        "value": "要保持两国领导人经常沟通和两国有关部门的对话和协调"
+      },
+      {
+        "key": "D",
+        "value": "要多加强中美友好城市的互帮互助"
+      }
+    ],
+    "Version": "39ff06a70c4243018558931a2f9089ff",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131021,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917532,
+    "ProblemType": 2,
+    "template_id": 2131021,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "6、国家主席习近平9月25日晚同日本首相菅义伟通电话，习近平强调，中日共同肩负着维护世界和平稳定发展的重要责任。双方应该本着人类命运共同体理念，积极倡导和践行（），坚定维护以联合国为核心的（）和（），在国际多边机构和区域合作机制下加强沟通、协调、合作，携手应对各种全球性挑战，为亚洲繁荣发展作出积极贡献。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "Remark": "http://www.12371.cn/2020/09/25/ARTI1601044770673911.shtml",
+    "Options": [
+      {
+        "key": "A",
+        "value": "单边主义"
+      },
+      {
+        "key": "D",
+        "value": "国际体系"
+      },
+      {
+        "key": "C",
+        "value": "国际秩序"
+      },
+      {
+        "key": "E",
+        "value": "国际规则"
+      },
+      {
+        "key": "B",
+        "value": "多边主义"
+      }
+    ],
+    "Version": "ea18ab1306104bbe881a599c9e72ad8d",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131011,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917522,
+    "ProblemType": 2,
+    "template_id": 2131011,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "我们要牢固树立社会主义生态文明观，推动形成（）现代化建设新格局，为保护生态环境作出我们这代人的努力！",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://theory.people.com.cn/n1/2017/1206/c40531-29688522.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "人与环境和谐发展\n"
+      },
+      {
+        "key": "D",
+        "value": "人与环境和谐共生"
+      },
+      {
+        "key": "C",
+        "value": "人与自然和谐发展\n"
+      },
+      {
+        "key": "A",
+        "value": "人类社会和谐共生\n"
+      }
+    ],
+    "Version": "79b5465d3b544f4db08b0c6778f5bc22",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130930,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917438,
+    "ProblemType": 1,
+    "template_id": 2130930,
+    "problem_type": 1
+  },
+  {
+    "Body": "《中国共产党纪律处分条例》的修订是将党的纪律建设理论、实践和制度创新的最新成果，以党规党纪形式固定下来，从而提高纪律建设的（）、（）、（）。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0910/c117092-30282718.html",
+    "Options": [
+      {
+        "key": "C",
+        "value": "针对性"
+      },
+      {
+        "key": "E",
+        "value": "时效性"
+      },
+      {
+        "key": "D",
+        "value": "思想性"
+      },
+      {
+        "key": "A",
+        "value": "政治性"
+      },
+      {
+        "key": "B",
+        "value": "时代性"
+      }
+    ],
+    "Version": "8fc78ae3bfb14d488404c20e9593fcf8",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130987,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917498,
+    "ProblemType": 2,
+    "template_id": 2130987,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "中国和老挝两党对外联络部门负责人于2020年9月16日在昆明举行新冠肺炎疫情发生以来（）双边会晤。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "http://world.people.com.cn/n1/2020/0916/c1002-31864297.html",
+    "Options": [
+      {
+        "key": "D",
+        "value": "第四次"
+      },
+      {
+        "key": "B",
+        "value": "第二次"
+      },
+      {
+        "key": "A",
+        "value": "首次"
+      },
+      {
+        "key": "C",
+        "value": "第三次"
+      }
+    ],
+    "Version": "ac84cc5efbac40099d61b0bc97203407",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130955,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917463,
+    "ProblemType": 1,
+    "template_id": 2130955,
+    "problem_type": 1
+  },
+  {
+    "Body": "中国高度重视（）保护，将其作为完善产权保护制度最重要的内容之一。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "https://www.guancha.cn/economy/2018_09_24_473216_s.shtml",
+    "Options": [
+      {
+        "key": "A",
+        "value": "知识"
+      },
+      {
+        "key": "D",
+        "value": "贸易"
+      },
+      {
+        "key": "C",
+        "value": "产权"
+      },
+      {
+        "key": "B",
+        "value": "知识产权"
+      }
+    ],
+    "Version": "f86f459e25674214b6dc46450d61f740",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130933,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917441,
+    "ProblemType": 1,
+    "template_id": 2130933,
+    "problem_type": 1
+  },
+  {
+    "Body": "将()建设纳入新时代党的建设总体布局，推进全面从严治党向纵深发展，已经成为新时代党建工作的主旋律。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0910/c117092-30282718.html",
+    "Options": [
+      {
+        "key": "D",
+        "value": "组织"
+      },
+      {
+        "key": "B",
+        "value": "纪律"
+      },
+      {
+        "key": "A",
+        "value": "作风"
+      },
+      {
+        "key": "C",
+        "value": "政治"
+      }
+    ],
+    "Version": "5c8c635dc1d94a729ecf79e0890fcc66",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130901,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917409,
+    "ProblemType": 1,
+    "template_id": 2130901,
+    "problem_type": 1
+  },
+  {
+    "Body": "通过共建“一带一路”，实现沿线各同多元、平衡、自主、一次性的发展。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "false"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "18d9396106de444eaf9663359f3f8e6b",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131046,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917557,
+    "ProblemType": 6,
+    "template_id": 2131046,
+    "problem_type": 6
+  },
+  {
+    "Body": "党要管党，首先是管好(  )；从严治党，关键是从严治吏。要把党建设好，必须抓住“关键少数”。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "A",
+        "value": "干部"
+      },
+      {
+        "key": "C",
+        "value": "纪律"
+      },
+      {
+        "key": "B",
+        "value": "管理"
+      },
+      {
+        "key": "D",
+        "value": "政治"
+      }
+    ],
+    "Version": "865c7e164db8489cb747f7271e00f6c6",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130938,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917446,
+    "ProblemType": 1,
+    "template_id": 2130938,
+    "problem_type": 1
+  },
+  {
+    "Body": "当前，我国发展不平衡问题在农村最为突出。",
+    "Type": "Judgement",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "true"
+    ],
+    "Remark": "http://www.tdzyw.com/2018/0204/50331.html",
+    "Options": [
+      {
+        "key": "true",
+        "value": "正确"
+      },
+      {
+        "key": "false",
+        "value": "错误"
+      }
+    ],
+    "Version": "9b8791054d9c478697975e2968f00b44",
+    "TypeText": "判断题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2131048,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917559,
+    "ProblemType": 6,
+    "template_id": 2131048,
+    "problem_type": 6
+  },
+  {
+    "Body": "宣传思想干部要不断掌握新知识、熟悉新领域、开拓新视野，增强本领能力，加强调查研究，不断增强脚力、眼力、脑力、笔力，努力打造一支（）、（）、（）、（）的宣传思想工作队伍。",
+    "Type": "MultipleChoice",
+    "data": {},
+    "Score": 2,
+    "index": 0,
+    "score": 2,
+    "Answer": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Remark": "《习近平：举旗帜聚民心育新人兴文化展形象\n更好完成新形势下宣传思想工作使命任务》http://www.xinhuanet.com/politics/2018-08/22/c_1123310844.htm",
+    "Options": [
+      {
+        "key": "A",
+        "value": "素质较高"
+      },
+      {
+        "key": "E",
+        "value": "能打胜仗"
+      },
+      {
+        "key": "D",
+        "value": "求实创新"
+      },
+      {
+        "key": "C",
+        "value": "本领高强"
+      },
+      {
+        "key": "B",
+        "value": "政治过硬"
+      }
+    ],
+    "Version": "645a7f04bfb84cad9f39ac28c9e4ef6d",
+    "TypeText": "多选题",
+    "HalfScore": 0,
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130973,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917484,
+    "ProblemType": 2,
+    "template_id": 2130973,
+    "awardingRule": 1,
+    "problem_type": 2
+  },
+  {
+    "Body": "中国共产党同缅甸全国民主联盟于2020年7月9日举行“中缅政党+：（）省与曼德勒省视频交流对接会”，缅甸国务资政昂山素季发表书面致辞，中共中央对外联络部部长宋涛，中共云南省委书记陈豪，缅民盟第二副主席、曼德勒省首席部长佐敏貌，缅商务部长丹敏等与会并致辞。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://www.12371.cn/2020/07/11/ARTI1594430644834741.shtml",
+    "Options": [
+      {
+        "key": "A",
+        "value": "贵州"
+      },
+      {
+        "key": "D",
+        "value": "四川"
+      },
+      {
+        "key": "C",
+        "value": "广西"
+      },
+      {
+        "key": "B",
+        "value": "云南"
+      }
+    ],
+    "Version": "57ad5763ba2c4400b1bfa4306f38e324",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130947,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917455,
+    "ProblemType": 1,
+    "template_id": 2130947,
+    "problem_type": 1
+  },
+  {
+    "Body": "为推进“一带一路”建设，中国政府积极推进投资贸易便利化，推进（）改革。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "https://www.yidaiyilu.gov.cn/",
+    "Options": [
+      {
+        "key": "C",
+        "value": "投资管理"
+      },
+      {
+        "key": "D",
+        "value": "出入境"
+      },
+      {
+        "key": "B",
+        "value": "区域通关一体化"
+      },
+      {
+        "key": "A",
+        "value": "投资环境"
+      }
+    ],
+    "Version": "0f7bf449cdd342b78ddf7edc8541cf93",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130911,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917419,
+    "ProblemType": 1,
+    "template_id": 2130911,
+    "problem_type": 1
+  },
+  {
+    "Body": "全面从严治党必须一以贯之、坚定不移，是由全党面临的（  ）的长期性、复杂性、严峻性所决定的。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "C",
+        "value": "使命"
+      },
+      {
+        "key": "A",
+        "value": "风险挑战"
+      },
+      {
+        "key": "B",
+        "value": "责任"
+      },
+      {
+        "key": "D",
+        "value": "反腐工作"
+      }
+    ],
+    "Version": "d2a89792688349b092b1e576ccf7f7b7",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130941,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917449,
+    "ProblemType": 1,
+    "template_id": 2130941,
+    "problem_type": 1
+  },
+  {
+    "Body": "2018年10月25日，中朝祭扫友谊塔纪念中国人民志愿军赴朝参战（）周年",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "http://world.people.com.cn/n1/2018/1025/c1002-30363294.html",
+    "Options": [
+      {
+        "key": "B",
+        "value": "65"
+      },
+      {
+        "key": "D",
+        "value": "68"
+      },
+      {
+        "key": "C",
+        "value": "55"
+      },
+      {
+        "key": "A",
+        "value": "58"
+      }
+    ],
+    "Version": "9e8faaf9965d40bfb4794f8135470a74",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130878,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917386,
+    "ProblemType": 1,
+    "template_id": 2130878,
+    "problem_type": 1
+  },
+  {
+    "Body": "港澳台居民前往内地（大陆）居住()以上，符合相关规定的，根据本人意愿，可以依照相关规定申请领取内地（大陆）居住证。\n",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "A"
+    ],
+    "Remark": "《港澳台居民居住证申领发放办法》http://www.gov.cn/zhengce/content/2018-08/19/content_5314865.htm",
+    "Options": [
+      {
+        "key": "B",
+        "value": "1年"
+      },
+      {
+        "key": "C",
+        "value": "1年半"
+      },
+      {
+        "key": "D",
+        "value": "2年"
+      },
+      {
+        "key": "A",
+        "value": "半年"
+      }
+    ],
+    "Version": "85e50b41073a44d79769a780649e9834",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130877,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917385,
+    "ProblemType": 1,
+    "template_id": 2130877,
+    "problem_type": 1
+  },
+  {
+    "Body": "党的十九大报告提出要实现小农户与（）发展的有机衔接。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "https://www.sohu.com/a/238065484_349299",
+    "Options": [
+      {
+        "key": "A",
+        "value": "乡镇企业"
+      },
+      {
+        "key": "C",
+        "value": "大农户"
+      },
+      {
+        "key": "B",
+        "value": "政府部门"
+      },
+      {
+        "key": "D",
+        "value": "现代农业"
+      }
+    ],
+    "Version": "9987ebc5fb0b4779b4223d65f5a5b37b",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130863,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917371,
+    "ProblemType": 1,
+    "template_id": 2130863,
+    "problem_type": 1
+  },
+  {
+    "Body": "要以提升（）为重点，突出政治功能，把企业、农村、机关、学校、科研院所、街道社区、社会组织等基层党组织建设成为宣传党的主张、贯彻党的决定、领导基层治理、团结动员群众、推动改革发展的坚强战斗堡垒。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "无",
+    "Options": [
+      {
+        "key": "A",
+        "value": "凝聚力"
+      },
+      {
+        "key": "D",
+        "value": "战斗力"
+      },
+      {
+        "key": "B",
+        "value": "领导力"
+      },
+      {
+        "key": "C",
+        "value": "组织力"
+      }
+    ],
+    "Version": "a703409a9ac244aba6d12438fc19e7bc",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130924,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917432,
+    "ProblemType": 1,
+    "template_id": 2130924,
+    "problem_type": 1
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：中国特色社会主义新时代，要把（   ）作为文艺评论、评介、评奖的重要标准，更好地引导文艺创作生产传播坚守正道、弘扬正气。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "B"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "C",
+        "value": "中华传统美德"
+      },
+      {
+        "key": "D",
+        "value": "社会主义核心价值观"
+      },
+      {
+        "key": "A",
+        "value": "共产主义道德"
+      },
+      {
+        "key": "B",
+        "value": "社会主义道德 "
+      }
+    ],
+    "Version": "505653ac4e1f4d9db891a8278eca4392",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2129903,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917468,
+    "ProblemType": 1,
+    "template_id": 2129903,
+    "problem_type": 1
+  },
+  {
+    "Body": "（）是乡村振兴战略最重要的推进路径。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "https://www.sohu.com/a/238065484_349299",
+    "Options": [
+      {
+        "key": "A",
+        "value": "“两学一做”"
+      },
+      {
+        "key": "D",
+        "value": "“复兴之路”"
+      },
+      {
+        "key": "B",
+        "value": "“改革开放”"
+      },
+      {
+        "key": "C",
+        "value": "“五个激活”"
+      }
+    ],
+    "Version": "33da5b298a7946b6b28d33ddc944ddcd",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130867,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917375,
+    "ProblemType": 1,
+    "template_id": 2130867,
+    "problem_type": 1
+  },
+  {
+    "Body": "《新时代公民道德建设实施纲要》指出：要全面贯彻党的教育方针，坚持社会主义办学方向，坚持育人为本、德育为先，把（    ）作为学生核心素养、纳入学业质量标准，构建德智体美劳全面培养的教育体系。",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "D"
+    ],
+    "Remark": "http://paper.people.com.cn/rmrb/html/2019-10/28/nw.D110000renmrb_20191028_2-01.htm",
+    "Options": [
+      {
+        "key": "D",
+        "value": "思想品德"
+      },
+      {
+        "key": "B",
+        "value": "职业道德"
+      },
+      {
+        "key": "C",
+        "value": "家庭美德"
+      },
+      {
+        "key": "A",
+        "value": "社会公德"
+      }
+    ],
+    "Version": "df5d299ab64d4eb1bb21cbb2e5c4cab1",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2129901,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917466,
+    "ProblemType": 1,
+    "template_id": 2129901,
+    "problem_type": 1
+  },
+  {
+    "Body": "推动全面从严治党再出发，应长期坚持、不断深化“六个相统一”，做到既解决思想问题，也解决()，二者同向发力、同时发力；",
+    "Type": "SingleChoice",
+    "data": {},
+    "Score": 1,
+    "index": 0,
+    "score": 1,
+    "Answer": [
+      "C"
+    ],
+    "Remark": "http://dangjian.people.com.cn/n1/2018/0601/c117092-30027836.html",
+    "Options": [
+      {
+        "key": "A",
+        "value": "作风问题"
+      },
+      {
+        "key": "D",
+        "value": "原则问题"
+      },
+      {
+        "key": "C",
+        "value": "制度问题"
+      },
+      {
+        "key": "B",
+        "value": "组织问题"
+      }
+    ],
+    "Version": "3369355bc30543f0adcd00dfe093371a",
+    "TypeText": "单选题",
+    "HasRemark": true,
+    "LibraryID": 30769,
+    "max_retry": 1,
+    "TemplateID": 2130896,
+    "difficulty": 1,
+    "library_id": 30769,
+    "problem_id": 2917404,
+    "ProblemType": 1,
+    "template_id": 2130896,
+    "problem_type": 1
+  }
+]
