@@ -93,6 +93,7 @@ textarea:hover {
     color: #4e6ef2;
     transition: 0.3s all;
 }
+
 .link:hover {
     color: #00b1f7ea;
 }
@@ -125,7 +126,7 @@ textarea:hover {
     font-size: 20px;
 }
 
-.thanks .names{
+.thanks .names {
     margin: 10px auto;
     color: #21212167;
     font-size: 20px;
